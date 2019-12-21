@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Setting</string>
+    <string name="title_activity_email">EmailActivity</string>
+    <string name="stringEmail">Please enter your new email</string>
+    <string name="stringPassword">To save this setting, please enter your FunTravel password.</string>
+    <string name="stringChangePassword">EmailActivity</string>
+    <string name="buttonDone">Done</string>
+    <string name="buttonCancel">Cancel</string>
+</resources>
