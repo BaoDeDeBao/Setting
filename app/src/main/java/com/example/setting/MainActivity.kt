@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
+
     val arrayFunction: ArrayList<Function> = ArrayList()
 
     override fun onCreate(savedInstanceState: Bundle?) {

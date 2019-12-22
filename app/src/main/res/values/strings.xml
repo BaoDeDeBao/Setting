@@ -3,7 +3,10 @@
     <string name="title_activity_email">EmailActivity</string>
     <string name="stringEmail">Please enter your new email</string>
     <string name="stringPassword">To save this setting, please enter your FunTravel password.</string>
-    <string name="stringChangePassword">EmailActivity</string>
+    <string name="stringChangePassword">Your password should be at least 6 characters above and contain number, lower and upper character, and special character.</string>
     <string name="buttonDone">Done</string>
+    <string name="buttonConfirm">Confirm</string>
     <string name="buttonCancel">Cancel</string>
+    <string name="newPassoword">New Password</string>
+    <string name="confirmPassoword">Confirm Password</string>
 </resources>
